@@ -7,6 +7,7 @@
 #include <libavutil/opt.h>
 #include <string.h>
 #include <inttypes.h>
+
 #include "video_debugging.h"
 
 typedef struct StreamingParams {
